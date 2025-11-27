@@ -1,6 +1,6 @@
 # Data and code used in "*Artificial Intelligence-and-its-influence-on-students-answers-to-graded-assignments*" by Gustavo Q. Saraiva
 
-- The main file is *Regressions.R*, which runs the main regressions of the paper.
+- The main file is *Regressions.R*, which runs the main regressions of the paper "*Artificial Intelligence-and-its-influence-on-students-answers-to-graded-assignments*" by Gustavo Q. Saraiva.
 
 - The original datasets are:
   - *anonymized_data_1.csv*
