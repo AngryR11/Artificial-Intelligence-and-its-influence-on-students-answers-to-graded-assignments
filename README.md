@@ -1,6 +1,6 @@
-# Data and code used in "*Artificial Intelligence-and-its-influence-on-students-answers-to-graded-assignments*" by Gustavo Q. Saraiva
+# Data and code used in "*Artificial Intelligence and its influence on students answers to graded assignments*" by Gustavo Q. Saraiva
 
-- The main file is *Regressions.R*, which runs the main regressions of the paper "*Artificial Intelligence-and-its-influence-on-students-answers-to-graded-assignments*" by Gustavo Q. Saraiva.
+- The main file is *Regressions.R*, which runs the main regressions of the paper [Artificial Intelligence and its influence on students answers to graded assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018321).
 
 - The original datasets are:
   - *anonymized_data_1.csv*
@@ -19,4 +19,4 @@
 
 # Referencies
 
-- When using this dataset, please cite the corresponding article "*Artificial Intelligence and its influence on students’ answers to graded assignments*" by Gustavo Q. Saraiva.
+- When using this dataset, please cite the corresponding article [Artificial Intelligence and its influence on students answers to graded assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018321) by Gustavo Q. Saraiva.
