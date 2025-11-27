@@ -19,4 +19,4 @@
 
 # Referencies
 
-- When using this dataset, please cite the corresponding working paper "*Artificial Intelligence and its influence on students’ answers to graded assignments*" by Gustavo Q. Saraiva.
+- When using this dataset, please cite the corresponding article "*Artificial Intelligence and its influence on students’ answers to graded assignments*" by Gustavo Q. Saraiva.
